@@ -317,7 +317,7 @@ public class MainActivity extends Activity {
 
     }
     private void report(){
-         String q ="234";//544554
+         String q ="234";
         String sos = "123";
         byte[] SosContent ;
         try {
